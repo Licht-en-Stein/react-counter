@@ -1,5 +1,6 @@
 # React Counter
-a React exercise https://licht-en-stein.github.io/react-counter/
+An exercise with React.
+https://licht-en-stein.github.io/react-counter/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
