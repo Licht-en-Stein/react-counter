@@ -47,7 +47,7 @@ class App extends Component {
           <button onClick={this.downCounter}>1down</button>
           <button onClick={this.resetCounter}>Reset</button>
           <button onClick={this.hideCounter}>Hide | Show</button>
-          {this.state.status ? <h1>{this.state.counter}</h1> : null}
+          {this.state.status ? <h2>{this.state.counter}</h2> : null}
       </div>
     );
   }
