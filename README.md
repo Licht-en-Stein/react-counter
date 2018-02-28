@@ -1,6 +1,6 @@
 # React Counter
 Getting used to React. An exercise using states, set states and conditional rendering.
-Deployed version: https://licht-en-stein.github.io/react-counter/.
+- https://licht-en-stein.github.io/react-counter/.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
